@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-6s9i9q.citysinglescommunity.com/sitemap.xml
